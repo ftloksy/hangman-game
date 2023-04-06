@@ -4,9 +4,9 @@
  */
 import React from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import HelpPage from "./HelpPage";
-import Introduce from "./Introduce";
-import Layout from "./Layout";
+import HelpPage from "../pages/HelpPage";
+import Introduce from "../pages/Introduce";
+import Layout from "../pages/Layout";
 
 function PageRouter() {
   return (

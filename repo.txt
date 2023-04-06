@@ -1,1 +1,1 @@
-https://github.com/ftloksy/hangman-game
+https://github.com/ftloksy/hangman-game.git
