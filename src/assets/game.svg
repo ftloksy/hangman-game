@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="200">
+  <ellipse cx="200" cy="100" rx="160" ry="80" fill="#8B5A2B" />
+  <text x="200" y="100" text-anchor="middle" dominant-baseline="middle" fill="#FFFFFF" font-size="32">Hangman Game</text>
+</svg>
+

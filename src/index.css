@@ -1,0 +1,136 @@
+body {
+  background-color: #aabb9e;
+}
+body header {
+  padding: 60px;
+  text-align: center;
+  background-color: #606c38;
+  font-size: 30px;
+}
+body header h1 {
+  color: lightyellow;
+}
+body button {
+  padding: 8px;
+  margin: 4px;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  background-color: #f5f5f5;
+  border: 1px solid #ccc;
+  cursor: pointer;
+}
+body button:hover {
+  background-color: #ddd;
+}
+body button:active {
+  background-color: #aaa;
+}
+body footer {
+  display: flex;
+  text-align: center;
+  background-color: #606c38;
+  height: 150px;
+  flex-wrap: wrap;
+  align-content: center;
+  flex-direction: column;
+}
+body footer copyright {
+  text-align: center;
+  display: block;
+  color: #fff;
+  width: -moz-fit-content;
+  width: fit-content;
+  background: black;
+  border: 5px solid #586673;
+  border-radius: 15px;
+  padding: 5px;
+  bottom: -10px;
+}
+body footer follow-me {
+  text-align: center;
+  display: block;
+  bottom: -20px;
+}
+body footer follow-me h2 {
+  color: #8b8b93;
+  padding-right: 20px;
+  padding-bottom: 0px;
+}
+body nav {
+  padding: 10px;
+}
+body nav ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+body nav ul li {
+  font-size: 24px;
+  width: 150px;
+}
+body nav ul li a:hover {
+  color: #e5e5e5;
+}
+body div#game {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-top: 40px;
+}
+body div#game div {
+  padding-right: 20px;
+  padding-left: 20px;
+}
+body div#content {
+  padding: 150px;
+}
+body div#content #game {
+  text-align: center;
+}
+body div#content .aichart {
+  color: #993333;
+  font-size: 32px;
+}
+body div#content p {
+  font-size: 28px;
+  color: #e5e5e5;
+  line-height: 1.6;
+  margin-top: 30px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+body div#content H1 {
+  font-size: 32px;
+  font-weight: bold;
+  color: #fcbf49;
+}
+body div#content H2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: #fcbf49;
+}
+body div#content H3 {
+  color: #a86532;
+}
+body div#content span {
+  color: #94d2bd;
+}
+body div#content pre {
+  background-color: #e5e5e5;
+  color: #cca43b;
+  font-size: 24px;
+  padding: 15px;
+}
+body div#content ul {
+  padding: 25px;
+  background-color: #606c38;
+  text-align: left;
+}
+body div#content ul li {
+  color: #fcbf49;
+  font-size: 24px;
+}
+body div#content ul li strong {
+  color: #e2bcb7;
+  font-weight: bold;
+}
