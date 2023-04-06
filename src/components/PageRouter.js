@@ -1,3 +1,7 @@
+/** 
+ * The webpage base router. this has two route.
+ * One is Introduce page, another is Help page.
+ */
 import React from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import HelpPage from "./HelpPage";
