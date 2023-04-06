@@ -10,7 +10,7 @@ guesses the word or when the hangman is fully drawn
 ## How to play
 
 Clone or download the project from the GitHub repository:
-https://github.com/frankie/hangman-game
+https://github.com/ftloksy/hangman-game
 
 Install the required dependencies by running
 the following command in your terminal:
