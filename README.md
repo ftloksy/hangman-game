@@ -7,7 +7,7 @@ The game ends either when the player successfully
 guesses the word or when the hangman is fully drawn
 (i.e., the player makes 10 wrong guesses).
 
-## How to play
+## How to install
 
 Clone or download the project from the GitHub repository:
 https://github.com/ftloksy/hangman-game
@@ -42,6 +42,18 @@ or the hangman is fully drawn (you lose).
 To start a new game, 
 click on the "New Game" button at the right-hand side of the page.
 
+## How to Play the Hangman Game Online
+
+The Hangman Game is an enjoyable word-guessing game 
+that you can play online. 
+Follow the steps below to start playing the game on the internet:
+
+Open your web browser and go to the Hangman Game website 
+by clicking on the following URL: http://hangman-game.breadsoap.com.
+
+That's it! You are now ready to enjoy playing the Hangman Game online. 
+Have fun and challenge yourself to guess as many words as you can!
+
 ## Dependencies
 
 The project was built with the following dependencies:
@@ -59,4 +71,5 @@ repository by __DWYL__ .
 
 ## Contributors
 
-This app was created by Frankie. If you have any questions or feedback, please feel free to reach out to me. Thanks for playing!
+This app was created by Frankie. If you have any questions or feedback, 
+please feel free to reach out to me. Thanks for playing!
